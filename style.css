@@ -1,0 +1,35 @@
+body
+{
+    background-image: url("https://wallpaperaccess.com/full/3301724.jpg");
+   color: lemonchiffon; 
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#heading 
+{
+    width: 80%;
+    font-size: 50px;
+    font-family:cursive;
+}
+
+.name_of_objects,#reslut_object_name,#reslut_object_accuracy
+{
+    color: rgb(230, 144, 230); 
+}
+
+#camera
+{
+    border: 10px solid lightpink;
+    height: 300px;
+    width: 350;
+}
+
+#button
+{
+    background-color: lightpink;
+    border-radius: 20px;
+    color:black;
+}
+
+
+  
